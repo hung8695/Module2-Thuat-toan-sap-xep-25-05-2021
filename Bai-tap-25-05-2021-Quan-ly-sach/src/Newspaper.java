@@ -16,7 +16,6 @@ public class Newspaper extends Document{
         return id;
     }
 
-
     public String getDate() {
         return date;
     }
